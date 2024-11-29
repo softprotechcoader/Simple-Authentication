@@ -1,0 +1,36 @@
+C:\M P\ASP.NET\Data First\Simple Authentication\bin\Debug\net8.0\appsettings.Development.json
+C:\M P\ASP.NET\Data First\Simple Authentication\bin\Debug\net8.0\appsettings.json
+C:\M P\ASP.NET\Data First\Simple Authentication\bin\Debug\net8.0\Simple Authentication.exe
+C:\M P\ASP.NET\Data First\Simple Authentication\bin\Debug\net8.0\Simple Authentication.deps.json
+C:\M P\ASP.NET\Data First\Simple Authentication\bin\Debug\net8.0\Simple Authentication.runtimeconfig.json
+C:\M P\ASP.NET\Data First\Simple Authentication\bin\Debug\net8.0\Simple Authentication.dll
+C:\M P\ASP.NET\Data First\Simple Authentication\bin\Debug\net8.0\Simple Authentication.pdb
+C:\M P\ASP.NET\Data First\Simple Authentication\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\M P\ASP.NET\Data First\Simple Authentication\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\M P\ASP.NET\Data First\Simple Authentication\bin\Debug\net8.0\Scrutor.dll
+C:\M P\ASP.NET\Data First\Simple Authentication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+C:\M P\ASP.NET\Data First\Simple Authentication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\M P\ASP.NET\Data First\Simple Authentication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\M P\ASP.NET\Data First\Simple Authentication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\M P\ASP.NET\Data First\Simple Authentication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\M P\ASP.NET\Data First\Simple Authentication\obj\Debug\net8.0\Simple Authentication.csproj.AssemblyReference.cache
+C:\M P\ASP.NET\Data First\Simple Authentication\obj\Debug\net8.0\Simple Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\M P\ASP.NET\Data First\Simple Authentication\obj\Debug\net8.0\Simple Authentication.AssemblyInfoInputs.cache
+C:\M P\ASP.NET\Data First\Simple Authentication\obj\Debug\net8.0\Simple Authentication.AssemblyInfo.cs
+C:\M P\ASP.NET\Data First\Simple Authentication\obj\Debug\net8.0\Simple Authentication.csproj.CoreCompileInputs.cache
+C:\M P\ASP.NET\Data First\Simple Authentication\obj\Debug\net8.0\Simple Authentication.MvcApplicationPartsAssemblyInfo.cs
+C:\M P\ASP.NET\Data First\Simple Authentication\obj\Debug\net8.0\Simple Authentication.MvcApplicationPartsAssemblyInfo.cache
+C:\M P\ASP.NET\Data First\Simple Authentication\obj\Debug\net8.0\staticwebassets.build.json
+C:\M P\ASP.NET\Data First\Simple Authentication\obj\Debug\net8.0\staticwebassets.development.json
+C:\M P\ASP.NET\Data First\Simple Authentication\obj\Debug\net8.0\staticwebassets\msbuild.Simple Authentication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\M P\ASP.NET\Data First\Simple Authentication\obj\Debug\net8.0\staticwebassets\msbuild.build.Simple Authentication.props
+C:\M P\ASP.NET\Data First\Simple Authentication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Simple Authentication.props
+C:\M P\ASP.NET\Data First\Simple Authentication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Simple Authentication.props
+C:\M P\ASP.NET\Data First\Simple Authentication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\M P\ASP.NET\Data First\Simple Authentication\obj\Debug\net8.0\scopedcss\bundle\Simple Authentication.styles.css
+C:\M P\ASP.NET\Data First\Simple Authentication\obj\Debug\net8.0\Simple Authentication.csproj.CopyComplete
+C:\M P\ASP.NET\Data First\Simple Authentication\obj\Debug\net8.0\Simple Authentication.dll
+C:\M P\ASP.NET\Data First\Simple Authentication\obj\Debug\net8.0\refint\Simple Authentication.dll
+C:\M P\ASP.NET\Data First\Simple Authentication\obj\Debug\net8.0\Simple Authentication.pdb
+C:\M P\ASP.NET\Data First\Simple Authentication\obj\Debug\net8.0\Simple Authentication.genruntimeconfig.cache
+C:\M P\ASP.NET\Data First\Simple Authentication\obj\Debug\net8.0\ref\Simple Authentication.dll
